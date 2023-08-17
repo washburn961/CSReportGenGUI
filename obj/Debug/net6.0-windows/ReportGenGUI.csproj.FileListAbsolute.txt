@@ -1,0 +1,17 @@
+C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\bin\Debug\net6.0-windows\ReportGenGUI.exe
+C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\bin\Debug\net6.0-windows\ReportGenGUI.deps.json
+C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\bin\Debug\net6.0-windows\ReportGenGUI.runtimeconfig.json
+C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\bin\Debug\net6.0-windows\ReportGenGUI.dll
+C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\bin\Debug\net6.0-windows\ReportGenGUI.pdb
+C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\obj\Debug\net6.0-windows\ReportGenGUI.Form1.resources
+C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\obj\Debug\net6.0-windows\ReportGenGUI.csproj.GenerateResource.cache
+C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\obj\Debug\net6.0-windows\ReportGenGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\obj\Debug\net6.0-windows\ReportGenGUI.AssemblyInfoInputs.cache
+C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\obj\Debug\net6.0-windows\ReportGenGUI.AssemblyInfo.cs
+C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\obj\Debug\net6.0-windows\ReportGenGUI.csproj.CoreCompileInputs.cache
+C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\obj\Debug\net6.0-windows\ReportGenGUI.dll
+C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\obj\Debug\net6.0-windows\refint\ReportGenGUI.dll
+C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\obj\Debug\net6.0-windows\ReportGenGUI.pdb
+C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\obj\Debug\net6.0-windows\ReportGenGUI.genruntimeconfig.cache
+C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\obj\Debug\net6.0-windows\ref\ReportGenGUI.dll
+C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\obj\Debug\net6.0-windows\ReportGenGUI.Properties.Resources.resources
