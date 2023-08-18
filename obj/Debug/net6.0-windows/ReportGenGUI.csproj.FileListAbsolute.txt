@@ -15,3 +15,10 @@ C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\obj\Debug\net6.0-window
 C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\obj\Debug\net6.0-windows\ReportGenGUI.genruntimeconfig.cache
 C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\obj\Debug\net6.0-windows\ref\ReportGenGUI.dll
 C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\obj\Debug\net6.0-windows\ReportGenGUI.Properties.Resources.resources
+C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\bin\Debug\net6.0-windows\ReportGen.deps.json
+C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\bin\Debug\net6.0-windows\ReportGen.runtimeconfig.json
+C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\bin\Debug\net6.0-windows\ReportGen.exe
+C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\bin\Debug\net6.0-windows\ReportGen.dll
+C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\bin\Debug\net6.0-windows\ReportGen.pdb
+C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\obj\Debug\net6.0-windows\ReportGenGUI.csproj.AssemblyReference.cache
+C:\Users\223105796\Source\Repos\washburn961\ReportGenGUI\obj\Debug\net6.0-windows\ReportGenGUI.csproj.CopyComplete

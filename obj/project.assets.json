@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    "net6.0-windows7.0": {
+      "ReportGen/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ReportGen.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ReportGen.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ReportGen/1.0.0": {
+      "type": "project",
+      "path": "../CSReportGen/ReportGen.csproj",
+      "msbuildProject": "../CSReportGen/ReportGen.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    "net6.0-windows7.0": [
+      "ReportGen >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\223105796\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\223105796\\Source\\Repos\\washburn961\\CSReportGen\\ReportGen.csproj": {
+              "projectPath": "C:\\Users\\223105796\\Source\\Repos\\washburn961\\CSReportGen\\ReportGen.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

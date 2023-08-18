@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "ReportGenGUI/1.0.0": {
+        "dependencies": {
+          "ReportGen": "1.0.0"
+        },
         "runtime": {
           "ReportGenGUI.dll": {}
+        }
+      },
+      "ReportGen/1.0.0": {
+        "runtime": {
+          "ReportGen.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ReportGenGUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReportGen/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
